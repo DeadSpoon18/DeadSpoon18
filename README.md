@@ -16,10 +16,9 @@
 <br/>
 
 - 🌱 I’m currently learning more about everything I can.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
 - 🤔 I’m looking for help in Frontend.
 - 💬 Ask me about MERN or any web related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [![Gmail Badge](https://img.shields.io/badge/kssklol925@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:kssklol925@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/kssklol925@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:kssklol925@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You can find me playing football or guitar If not coding.
 
